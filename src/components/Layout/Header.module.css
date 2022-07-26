@@ -1,0 +1,11 @@
+
+nav{
+    background: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    height: 3rem;
+    color: white;
+    font-size: 2rem;
+}
